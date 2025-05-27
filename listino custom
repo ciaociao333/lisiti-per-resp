@@ -291,13 +291,13 @@
   {
     "categoria": "Consegna",
     "voce": "Consegna a mano in location (Novate M.se → sede evento)",
-    "prezzo": 200,
+    "prezzo": 350,
     "unita": "forfait"
   },
   {
     "categoria": "Segnaletica",
     "voce": "Seating chart 80x100 cm su forex (senza piedi)",
-    "prezzo": 120,
+    "prezzo": 190,
     "unita": "cad"
   },
   {
@@ -318,10 +318,4 @@
     "prezzo": 80,
     "unita": "forfait"
   },
-  {
-    "categoria": "Consegna",
-    "voce": "Noleggio struttura rettangolare oro per pannello",
-    "prezzo": 70,
-    "unita": "forfait"
-  }
-]
+
