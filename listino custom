@@ -1,0 +1,327 @@
+[
+  {
+    "categoria": "Inviti",
+    "voce": "Card inviti handmade 350gsm",
+    "prezzo": 2.5,
+    "unita": "cad",
+    "note": "Prezzo base carta handmade"
+  },
+  {
+    "categoria": "Inviti",
+    "voce": "Card inviti su cardstock 270–350gsm",
+    "prezzo": 2.0,
+    "unita": "cad",
+    "note": "Carta liscia standard, prezzo base"
+  },
+  {
+    "categoria": "Inviti",
+    "voce": "Card inviti su carta artigianale 350gsm",
+    "prezzo": 2.5,
+    "unita": "cad",
+    "note": "Carta fatta a mano, margini irregolari"
+  },
+  {
+    "categoria": "Inviti - Extra",
+    "voce": "Card RSVP / info A7 su cardstock",
+    "prezzo": 2.0,
+    "unita": "cad",
+    "note": "Formato A7 su carta liscia"
+  },
+  {
+    "categoria": "Inviti - Extra",
+    "voce": "Card RSVP / info A7 su carta handmade",
+    "prezzo": 2.5,
+    "unita": "cad",
+    "note": "Formato A7 su carta fatta a mano"
+  },
+  {
+    "categoria": "Inviti - Extra",
+    "voce": "Card RSVP / info formato ridotto su cardstock",
+    "prezzo": 1.7,
+    "unita": "cad",
+    "note": "Formato inferiore ad A7, carta liscia"
+  },
+  {
+    "categoria": "Inviti - Extra",
+    "voce": "Card RSVP / info formato ridotto su carta handmade",
+    "prezzo": 2.2,
+    "unita": "cad",
+    "note": "Formato inferiore ad A7, carta fatta a mano"
+  },
+  {
+    "categoria": "Buste",
+    "voce": "Busta cardstock 135–270gsm",
+    "prezzo": 2.2,
+    "unita": "cad",
+    "note": "Carta classica o colorplan, bordi netti"
+  },
+  {
+    "categoria": "Buste",
+    "voce": "Busta handmade 200gsm",
+    "prezzo": 2.5,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Buste",
+    "voce": "Busta handmade 200–300gsm",
+    "prezzo": 2.5,
+    "unita": "cad",
+    "note": "Fatte a mano, abbinate alla carta artigianale"
+  },
+  {
+    "categoria": "Buste",
+    "voce": "Busta velluto handmade",
+    "prezzo": 5.0,
+    "unita": "cad",
+    "note": "Formato ca. 13x18 cm"
+  },
+  {
+    "categoria": "Stampa",
+    "voce": "Cliché per letterpress 3D",
+    "prezzo": 2.14,
+    "unita": "cm²",
+    "note": "Prezzo al cm² (es. 13x18 cm = 234 cm² ≈ €500)"
+  },
+  {
+    "categoria": "Stampa",
+    "voce": "Cliché personalizzato stampa a caldo",
+    "prezzo": 70,
+    "unita": "cad",
+    "note": "Prezzo da confermare in base alla misura"
+  },
+  {
+    "categoria": "Stampa",
+    "voce": "Lavorazione letterpress 3D",
+    "prezzo": 1.7,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Stampa",
+    "voce": "Lavorazione letterpress artigianale",
+    "prezzo": 6,
+    "unita": "cad",
+    "note": "Richiede cliché separato; lavorazione esterna"
+  },
+  {
+    "categoria": "Stampa",
+    "voce": "Letterpress foil (oro/argento)",
+    "prezzo": 1.6,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Stampa",
+    "voce": "Monogramma in letterpress oro",
+    "prezzo": 1.6,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Stampa",
+    "voce": "Stampa bianca su vellum",
+    "prezzo": 2.5,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Stampa",
+    "voce": "Stampa bianco su carta colorata",
+    "prezzo": 2.0,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Stampa",
+    "voce": "Stampa digitale HQ",
+    "prezzo": 2.0,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Calligrafia",
+    "voce": "Nome segnaposto calligrafia a mano",
+    "prezzo": 2.5,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Calligrafia",
+    "voce": "Nome segnaposto digitale",
+    "prezzo": 1.2,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Calligrafia",
+    "voce": "Testo invito (nomi sposi)",
+    "prezzo": 30,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Illustrazioni",
+    "voce": "Illustrazione acquerello su misura",
+    "prezzo": 250,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Illustrazioni",
+    "voce": "Illustrazione line-drawing su misura",
+    "prezzo": 150,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Dettagli",
+    "voce": "Nastro seta (Papyre)",
+    "prezzo": 1.2,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Dettagli",
+    "voce": "Sigillo ceralacca personalizzato",
+    "prezzo": 1.6,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Dettagli",
+    "voce": "Tassel coordinato",
+    "prezzo": 1.0,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Coordinati evento",
+    "voce": "Coni riso/petali personalizzati",
+    "prezzo": 1.9,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Coordinati evento",
+    "voce": "Escort card",
+    "prezzo": 1.8,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Coordinati evento",
+    "voce": "Libretto cerimonia",
+    "prezzo": 3.5,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Coordinati evento",
+    "voce": "Menu sagomato + tassel",
+    "prezzo": 3.0,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Coordinati evento",
+    "voce": "Placecard sagomato",
+    "prezzo": 2.2,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Coordinati evento",
+    "voce": "Tag/etichette personalizzate",
+    "prezzo": 1.0,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Coordinati evento",
+    "voce": "Ventagli cerimonia",
+    "prezzo": 2.2,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Coordinati evento",
+    "voce": "Wedding bag in cotone",
+    "prezzo": 5.0,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Coordinati evento",
+    "voce": "Wedding bag in juta",
+    "prezzo": 8.0,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Segnaletica",
+    "voce": "Sign autoportante in forex 20–30 cm",
+    "prezzo": 35,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Segnaletica",
+    "voce": "Sign autoportante in forex 30–40 cm",
+    "prezzo": 45,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Segnaletica",
+    "voce": "Welcome sign in forex",
+    "prezzo": 120,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Digital",
+    "voce": "Save the date digitale",
+    "prezzo": 100,
+    "unita": "forfait"
+  },
+  {
+    "categoria": "Servizi",
+    "voce": "Bozza grafica e layout stampa",
+    "prezzo": 0,
+    "unita": "forfait"
+  },
+  {
+    "categoria": "Servizi",
+    "voce": "Campione fisico personalizzato",
+    "prezzo": 12,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Packaging",
+    "voce": "Carta velina per confezione",
+    "prezzo": 0.6,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Cliché",
+    "voce": "Cliché personalizzato stampa",
+    "prezzo": 70,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Packaging",
+    "voce": "Scatola confezione finale con sticker",
+    "prezzo": 4.5,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Consegna",
+    "voce": "Consegna a mano in location (Novate M.se → sede evento)",
+    "prezzo": 200,
+    "unita": "forfait"
+  },
+  {
+    "categoria": "Segnaletica",
+    "voce": "Seating chart 80x100 cm su forex (senza piedi)",
+    "prezzo": 120,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Segnaletica",
+    "voce": "Seating chart 80x175 cm su pannello Sandwich",
+    "prezzo": 250,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Segnaletica",
+    "voce": "Pannello 160x80 cm in forex per struttura",
+    "prezzo": 220,
+    "unita": "cad"
+  },
+  {
+    "categoria": "Consegna",
+    "voce": "Noleggio struttura rettangolare oro per pannello",
+    "prezzo": 80,
+    "unita": "forfait"
+  },
+  {
+    "categoria": "Consegna",
+    "voce": "Noleggio struttura rettangolare oro per pannello",
+    "prezzo": 70,
+    "unita": "forfait"
+  }
+]
