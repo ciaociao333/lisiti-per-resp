@@ -1,0 +1,94 @@
+[
+  {
+    "voce": "Set inviti Small (card + busta)",
+    "variante": "Carta cardstock",
+    "prezzo": 3.8,
+    "unita": "cad"
+  },
+  {
+    "voce": "Set inviti Medium (card + card + busta)",
+    "variante": "Carta cardstock",
+    "prezzo": 4.8,
+    "unita": "cad"
+  },
+  {
+    "voce": "Set inviti Large (card + 2 card + busta)",
+    "variante": "Carta cardstock",
+    "prezzo": 6.0,
+    "unita": "cad"
+  },
+  {
+    "voce": "Set inviti Small (card + busta)",
+    "variante": "Carta handmade",
+    "prezzo": 4.0,
+    "unita": "cad"
+  },
+  {
+    "voce": "Set inviti Medium (card + card + busta)",
+    "variante": "Carta handmade",
+    "prezzo": 6.0,
+    "unita": "cad"
+  },
+  {
+    "voce": "Set inviti Large (card + 2 card + busta)",
+    "variante": "Carta handmade",
+    "prezzo": 8.0,
+    "unita": "cad"
+  },
+  {
+    "voce": "Modifica layout catalogo",
+    "prezzo": 90,
+    "unita": "una tantum"
+  },
+  {
+    "voce": "Stampa foil/letterpress",
+    "prezzo": 1.5,
+    "unita": "per elemento"
+  },
+  {
+    "voce": "Cliché foil/letterpress",
+    "prezzo": 70,
+    "unita": "una tantum"
+  },
+  {
+    "voce": "Busta fustellata",
+    "prezzo": 0.3,
+    "unita": "cad"
+  },
+  {
+    "voce": "Copertina vellum",
+    "prezzo": 1.0,
+    "unita": "cad"
+  },
+  {
+    "voce": "Liner busta",
+    "prezzo": 1.0,
+    "unita": "cad"
+  },
+  {
+    "voce": "Nomi su busta",
+    "prezzo": 1.0,
+    "unita": "cad"
+  },
+  {
+    "voce": "Indirizzo completo su busta",
+    "prezzo": 1.5,
+    "unita": "cad"
+  },
+  {
+    "voce": "Ceralacca personalizzata",
+    "prezzo": 1.5,
+    "unita": "cad"
+  },
+  {
+    "voce": "Nastro decorativo",
+    "prezzo": 1.0,
+    "unita": "cad"
+  },
+  {
+    "voce": "Calligrafia digitale nomi sposi",
+    "prezzo": 15,
+    "unita": "una tantum"
+  }
+]
+listino_catalogo.json
